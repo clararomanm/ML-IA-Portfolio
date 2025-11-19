@@ -1,4 +1,4 @@
-# 🚀 Hybrid Recommender System Portfolio: Cold Start to Personalization
+# Hybrid Recommender System Portfolio: Cold Start to Personalization
 
 ## Project Overview
 
