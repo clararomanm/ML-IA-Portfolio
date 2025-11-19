@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data and models
+data/
+models/
+
+# System
+.DS_Store
+.vscode/
