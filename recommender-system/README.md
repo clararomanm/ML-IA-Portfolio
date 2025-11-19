@@ -17,12 +17,8 @@ Este repositorio contiene un pipeline modular para entrenar, evaluar y desplegar
 ---
 
 ## Cómo usar (resumen)
-1. Coloca los datos en `data/raw/` (CSV con columnas `userId`, `itemId`, `rating`).
-2. Instala dependencias: `pip install -r requirements.txt`.
-3. Ejecuta `src/model_training.py` para entrenar y guardar un modelo (o usa el notebook en `notebooks/`).
-4. Usa `src/recommendation_engine.py` para generar recomendaciones por usuario.
+1. Ejecuta `src/model_training.py` para entrenar y guardar un modelo (o usa el notebook en `notebooks/`).
+2. Usa `src/recommendation_engine.py` para generar recomendaciones por usuario.
 
 ---
 
-## Quick English summary
-Personalized recommender pipeline using collaborative filtering (Surprise). Clean project structure ready for GitHub and portfolio.
