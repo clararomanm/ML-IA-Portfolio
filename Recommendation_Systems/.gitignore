@@ -1,0 +1,16 @@
+# Operating System files
+.DS_Store
+
+# Python files
+*.pyc
+__pycache__/
+
+# Environments
+venv/
+.env
+
+# Large/Temporary data files (Git LFS manages data/ratings.csv, but we ignore general data artifacts)
+*.pkl
+*.zip
+*.log
+data/processed/
