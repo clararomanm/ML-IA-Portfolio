@@ -2,7 +2,6 @@
 
 **Proyecto:** Sistema de recomendación personalizado basado en filtrado colaborativo usando la librería `surprise`.
 
-**Descripción corta**
 Este repositorio contiene un pipeline modular para entrenar, evaluar y desplegar modelos de recomendación basados en las valoraciones de usuarios. Está pensado como un proyecto de portfolio para demostrar competencia en ingeniería de datos y machine learning aplicada a sistemas de recomendación.
 
 ---
